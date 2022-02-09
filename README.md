@@ -1,3 +1,5 @@
-# bootstrap-sign-up-form
+# sign-up-form
 
-Sign up form built using Bootstrap V5.0
+6th Project in The Odin Project
+
+A sign up form built using HTML & CSS
