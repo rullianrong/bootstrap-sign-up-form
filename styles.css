@@ -1,0 +1,9 @@
+body {
+  /* https://unsplash.com/photos/m3hn2Kn5Bns?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+  Photo by Carl Raw on Unsplash
+  */
+
+   background: url('./assets/background-img.jpg') no-repeat right fixed;     
+   background-size: cover;
+}
